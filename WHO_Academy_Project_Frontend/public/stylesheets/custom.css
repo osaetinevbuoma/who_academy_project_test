@@ -1,0 +1,15 @@
+.app-logo {
+    width: 250px;
+}
+
+.button-box .default-btn {
+    margin: 0;
+}
+
+.login-form-container {
+    padding: 30px 30px;
+}
+
+ol li {
+    list-style: decimal;
+}
